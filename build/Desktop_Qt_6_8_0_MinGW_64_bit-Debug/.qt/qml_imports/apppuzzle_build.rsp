@@ -1,0 +1,14 @@
+-rootPath
+D:/QT/puzzle
+-cmake-output
+-output-file
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/qml_imports/apppuzzle_build.cmake
+-importPath
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/puzzle
+-importPath
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-importPath
+D:/QT/6.8.0/mingw_64/qml
+-qrcFiles
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/qmake_puzzle.qrc
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/apppuzzle_raw_qml_0.qrc

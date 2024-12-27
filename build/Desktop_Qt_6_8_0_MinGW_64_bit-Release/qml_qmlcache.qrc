@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="Tile.qml">../../Tile.qml</file>
+        <file alias="GameBoard.qml">../../GameBoard.qml</file>
+        <file alias="TilesModel.qml">../../TilesModel.qml</file>
+    </qresource>
+</RCC>

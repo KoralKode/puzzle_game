@@ -1,0 +1,5 @@
+module puzzle
+typeinfo apppuzzle.qmltypes
+prefer :/qt/qml/puzzle/
+Main 1.0 Main.qml
+

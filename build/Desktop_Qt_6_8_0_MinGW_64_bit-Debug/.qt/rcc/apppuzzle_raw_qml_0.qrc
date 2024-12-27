@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/puzzle/">
+    <file alias="Main.qml">D:/QT/puzzle/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,12 @@
+--bare
+-I
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-I
+D:/QT/6.8.0/mingw_64/qml
+--resource
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/qmake_puzzle.qrc
+--resource
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/apppuzzle_raw_qml_0.qrc
+D:/QT/puzzle/Main.qml
+--json
+D:/QT/puzzle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/apppuzzle_qmllint.json
